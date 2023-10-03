@@ -1,5 +1,10 @@
 # EcommProject
 
+The application will allow users to create a shopping cart and add
+items to it . The user will be able to view items in their cart, change
+the quantity of items, and delete items. The application will also
+provide a summary of the total cost of items in the cart. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 ## Development server
